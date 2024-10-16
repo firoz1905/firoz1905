@@ -6,7 +6,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource projects**
 
-- 💬 Ask me about **FastAPI**
+- 💬 Ask me about **FastAPI , Redis**
 
 - 📫 How to reach me **syedfiroz2010@gmail.com**
 
