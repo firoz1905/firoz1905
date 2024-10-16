@@ -2,11 +2,11 @@
   <h1 align="center">Hi 👋, I'm firoz1905</h1>
 <h3 align="center">A Passionate FullStack Developer (Python Stack)</h3>
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently workking on **React JS**
 
 - 👯 I’m looking to collaborate on **OpenSource projects**
 
-- 💬 Ask me about **FastAPI , Vue**
+- 💬 Ask me about **FastAPI**
 
 - 📫 How to reach me **syedfiroz2010@gmail.com**
 
