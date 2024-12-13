@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **syedfiroz2010@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: https://www.linkedin.com/in/firozsyed/</h3>
 <p align="left">
 </p>
 
