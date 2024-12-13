@@ -1,6 +1,6 @@
 
   <h1 align="center">Hi 👋, I'm firoz1905</h1>
-<h3 align="center">A Passionate FullStack Developer </h3>
+<h3 align="center">Senior Software Engineer & Tech Enthusiast</h3>
 
 - 🌱 I’m currently workking on **React JS**
 
