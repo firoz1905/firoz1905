@@ -51,6 +51,7 @@
 <p align="left">
   <!-- Backend -->
   <strong>Backend:</strong><br/>
+  <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" width="40" title="FastAPI"/>
   <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" title="Django"/>
   <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="40" title="Flask"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" title="Python"/>
@@ -85,15 +86,6 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" title="Scikit-learn"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="40" title="Pandas"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="40" title="Matplotlib"/>
-</p>
-
----
-
-📈 **Stats & Activity**
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=firoz1905&show_icons=true&theme=default" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=firoz1905&layout=compact" />
 </p>
 
 ---
