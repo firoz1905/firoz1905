@@ -5,7 +5,9 @@
 
 🔧 **About Me**
 
-- 🧠 Passionate about building scalable systems and AI-enabled products  
+- 🧠 Passionate about building scalable systems and AI-enabled products
+- 🧮 Strong background in **Data Structures & Algorithms**, with a focus on writing optimized and efficient code  
+- 🧱 Experienced in **System Design** for high-availability, distributed microservices architectures  
 - 🔭 Currently working on **React + FastAPI** projects with microservices & Docker  
 - ⚙️ Built internal AI tools using **LangChain**, **RAG pipelines**, and real-time LLM interaction  
 - 👯 Open to collaborating on **open-source**, especially in backend, infra, or AI tooling
