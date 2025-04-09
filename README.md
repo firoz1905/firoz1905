@@ -8,8 +8,13 @@
 - 🧠 Passionate about building scalable systems and AI-enabled products  
 - 🔭 Currently working on **React + FastAPI** projects with microservices & Docker  
 - ⚙️ Built internal AI tools using **LangChain**, **RAG pipelines**, and real-time LLM interaction  
-- 👯 Open to collaborating on **open-source**, especially in backend, infra, or AI tooling  
-- 💬 Ask me about: `FastAPI`, `Redis`, `Celery`, `Asynchronous Python`, `Docker`, `CI/CD`  
+- 👯 Open to collaborating on **open-source**, especially in backend, infra, or AI tooling
+  
+💬 Ask me about:
+- 🧵 Backend: `FastAPI`, `Celery`, `Redis`, `Asynchronous Python`
+- 🧠 AI/ML: `LangChain`, `RAG`, `Vector Embeddings`, `LLMs`, `OpenAI`
+- 🛠️ DevOps: `Docker`, `CI/CD`, `GitHub Actions`
+
 - 📫 Reach me: **firozs1912@gmail.com**
 
 ---
